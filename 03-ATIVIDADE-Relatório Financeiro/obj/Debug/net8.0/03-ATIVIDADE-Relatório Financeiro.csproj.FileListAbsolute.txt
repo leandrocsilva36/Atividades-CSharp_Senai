@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\bin\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.exe
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\bin\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.deps.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\bin\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.runtimeconfig.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\bin\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\bin\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.AssemblyInfo.cs
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.sourcelink.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\refint\03-ATIVIDADE-Relatório Financeiro.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\03-ATIVIDADE-Relatório Financeiro.genruntimeconfig.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\03-ATIVIDADE-Relatório Financeiro\obj\Debug\net8.0\ref\03-ATIVIDADE-Relatório Financeiro.dll

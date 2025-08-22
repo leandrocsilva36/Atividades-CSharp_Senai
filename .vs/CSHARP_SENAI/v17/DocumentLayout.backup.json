@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{527C860A-F013-4647-A27C-56FCCC9F76B4}|4-1-CALCULADORA_TABUADA\\4-1-CALCULADORA_TABUADA.csproj|c:\\users\\fic\\desktop\\curso_csharp_senai\\csharp_senai\\4-1-calculadora_tabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527C860A-F013-4647-A27C-56FCCC9F76B4}|4-1-CALCULADORA_TABUADA\\4-1-CALCULADORA_TABUADA.csproj|solutionrelative:4-1-calculadora_tabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB0CB1DC-16D4-41F6-B1EF-BA431F882CD2}|04-Conversor de Moedas\\04-Conversor de Moedas.csproj|c:\\users\\fic\\desktop\\curso_csharp_senai\\csharp_senai\\04-conversor de moedas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CB1DC-16D4-41F6-B1EF-BA431F882CD2}|04-Conversor de Moedas\\04-Conversor de Moedas.csproj|solutionrelative:04-conversor de moedas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E4D88F-9349-48DA-BC39-AE22C3C0B94A}|TESTE DE CODIGOS\\4-CALCULADORA_TABUADA.csproj|c:\\users\\fic\\desktop\\curso_csharp_senai\\csharp_senai\\teste de codigos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88E4D88F-9349-48DA-BC39-AE22C3C0B94A}|TESTE DE CODIGOS\\4-CALCULADORA_TABUADA.csproj|solutionrelative:teste de codigos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D94A848-97C2-4CB8-8030-540ECA673047}|03-ATIVIDADE-Relat\u00F3rio Financeiro\\03-ATIVIDADE-Relat\u00F3rio Financeiro.csproj|c:\\users\\fic\\desktop\\curso_csharp_senai\\csharp_senai\\03-atividade-relat\u00F3rio financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D94A848-97C2-4CB8-8030-540ECA673047}|03-ATIVIDADE-Relat\u00F3rio Financeiro\\03-ATIVIDADE-Relat\u00F3rio Financeiro.csproj|solutionrelative:03-atividade-relat\u00F3rio financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FF80D1-B27F-4746-A395-CDE38DB1FE8D}|CSHARP_SENAI\\1-Vari\u00E1veis_Entrada_Sa\u00EDda_operadores_matem\u00E1ticos.csproj|c:\\users\\fic\\desktop\\curso_csharp_senai\\csharp_senai\\csharp_senai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FF80D1-B27F-4746-A395-CDE38DB1FE8D}|CSHARP_SENAI\\1-Vari\u00E1veis_Entrada_Sa\u00EDda_operadores_matem\u00E1ticos.csproj|solutionrelative:csharp_senai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613B8ADB-CCE5-4685-A69D-B87FEC7D9B24}|02-ATIVIDADE CLIMA\\01-ATIVIDADE CLIMA.csproj|c:\\users\\fic\\desktop\\curso_csharp_senai\\csharp_senai\\02-atividade clima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613B8ADB-CCE5-4685-A69D-B87FEC7D9B24}|02-ATIVIDADE CLIMA\\01-ATIVIDADE CLIMA.csproj|solutionrelative:02-atividade clima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7C3166-1AB5-4B3A-8130-E380652F5514}|ATIVIDADE Boletim de Viagem\\0-ATIVIDADE Boletim de Viagem.csproj|c:\\users\\fic\\desktop\\curso_csharp_senai\\csharp_senai\\atividade boletim de viagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7C3166-1AB5-4B3A-8130-E380652F5514}|ATIVIDADE Boletim de Viagem\\0-ATIVIDADE Boletim de Viagem.csproj|solutionrelative:atividade boletim de viagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -92,26 +104,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\4-1-CALCULADORA_TABUADA\\Program.cs",
-              "RelativeDocumentMoniker": "4-1-CALCULADORA_TABUADA\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\4-1-CALCULADORA_TABUADA\\Program.cs",
-              "RelativeToolTip": "4-1-CALCULADORA_TABUADA\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBkAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\04-Conversor de Moedas\\Program.cs",
+              "RelativeDocumentMoniker": "04-Conversor de Moedas\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\04-Conversor de Moedas\\Program.cs",
+              "RelativeToolTip": "04-Conversor de Moedas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T11:32:58.017Z",
+              "WhenOpened": "2025-08-22T14:45:28.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\TESTE DE CODIGOS\\Program.cs",
-              "RelativeDocumentMoniker": "TESTE DE CODIGOS\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\TESTE DE CODIGOS\\Program.cs",
-              "RelativeToolTip": "TESTE DE CODIGOS\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\03-ATIVIDADE-Relat\u00F3rio Financeiro\\Program.cs",
+              "RelativeDocumentMoniker": "03-ATIVIDADE-Relat\u00F3rio Financeiro\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\03-ATIVIDADE-Relat\u00F3rio Financeiro\\Program.cs",
+              "RelativeToolTip": "03-ATIVIDADE-Relat\u00F3rio Financeiro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T11:27:29.441Z",
+              "WhenOpened": "2025-08-22T14:26:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\02-ATIVIDADE CLIMA\\Program.cs",
+              "RelativeDocumentMoniker": "02-ATIVIDADE CLIMA\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\02-ATIVIDADE CLIMA\\Program.cs",
+              "RelativeToolTip": "02-ATIVIDADE CLIMA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:06:48.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\ATIVIDADE Boletim de Viagem\\Program.cs",
+              "RelativeDocumentMoniker": "ATIVIDADE Boletim de Viagem\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\ATIVIDADE Boletim de Viagem\\Program.cs",
+              "RelativeToolTip": "ATIVIDADE Boletim de Viagem\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:54:44.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\CSHARP_SENAI\\Program.cs",
+              "RelativeDocumentMoniker": "CSHARP_SENAI\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\CURSO_CSHARP_SENAI\\CSHARP_SENAI\\CSHARP_SENAI\\Program.cs",
+              "RelativeToolTip": "CSHARP_SENAI\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:54:55.282Z",
               "EditorCaption": ""
             }
           ]

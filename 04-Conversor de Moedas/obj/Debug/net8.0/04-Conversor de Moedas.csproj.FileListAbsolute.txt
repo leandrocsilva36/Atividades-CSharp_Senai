@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\04-Conversor de Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\04-Conversor de Moedas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\04-Conversor de Moedas.AssemblyInfo.cs
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\04-Conversor de Moedas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\04-Conversor de Moedas.sourcelink.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\bin\Debug\net8.0\04-Conversor de Moedas.exe
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\bin\Debug\net8.0\04-Conversor de Moedas.deps.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\bin\Debug\net8.0\04-Conversor de Moedas.runtimeconfig.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\bin\Debug\net8.0\04-Conversor de Moedas.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\bin\Debug\net8.0\04-Conversor de Moedas.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\04-Conversor de Moedas.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\refint\04-Conversor de Moedas.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\04-Conversor de Moedas.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\04-Conversor de Moedas.genruntimeconfig.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\04-Conversor de Moedas\obj\Debug\net8.0\ref\04-Conversor de Moedas.dll

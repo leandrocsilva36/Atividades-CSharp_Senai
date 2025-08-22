@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ATIVIDADE Boletim de Viagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ATIVIDADE Boletim de Viagem.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ATIVIDADE Boletim de Viagem.AssemblyInfo.cs
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ATIVIDADE Boletim de Viagem.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ATIVIDADE Boletim de Viagem.sourcelink.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\bin\Debug\net8.0\ATIVIDADE Boletim de Viagem.exe
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\bin\Debug\net8.0\ATIVIDADE Boletim de Viagem.deps.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\bin\Debug\net8.0\ATIVIDADE Boletim de Viagem.runtimeconfig.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\bin\Debug\net8.0\ATIVIDADE Boletim de Viagem.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\bin\Debug\net8.0\ATIVIDADE Boletim de Viagem.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ATIVIDADE Boletim de Viagem.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\refint\ATIVIDADE Boletim de Viagem.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ATIVIDADE Boletim de Viagem.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ATIVIDADE Boletim de Viagem.genruntimeconfig.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\CSHARP_SENAI\ATIVIDADE Boletim de Viagem\obj\Debug\net8.0\ref\ATIVIDADE Boletim de Viagem.dll
