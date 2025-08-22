@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_Switch.exe
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_Switch.deps.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_Switch.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_Switch.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_Switch.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_Switch.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_Switch.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_Switch.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_Switch.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\refint\2-3-Estrutura_Condicional_Switch.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_Switch.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_Switch.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\ref\2-3-Estrutura_Condicional_Switch.dll

@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\bin\Debug\net8.0\2-1-Estrutura_Condicional_mercado.exe
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\bin\Debug\net8.0\2-1-Estrutura_Condicional_mercado.deps.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\bin\Debug\net8.0\2-1-Estrutura_Condicional_mercado.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\bin\Debug\net8.0\2-1-Estrutura_Condicional_mercado.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\bin\Debug\net8.0\2-1-Estrutura_Condicional_mercado.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\2-1-Estrutura_Condicional_mercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\2-1-Estrutura_Condicional_mercado.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\2-1-Estrutura_Condicional_mercado.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\2-1-Estrutura_Condicional_mercado.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\2-1-Estrutura_Condicional_mercado.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\refint\2-1-Estrutura_Condicional_mercado.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\2-1-Estrutura_Condicional_mercado.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\2-1-Estrutura_Condicional_mercado.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_mercado\obj\Debug\net8.0\ref\2-1-Estrutura_Condicional_mercado.dll

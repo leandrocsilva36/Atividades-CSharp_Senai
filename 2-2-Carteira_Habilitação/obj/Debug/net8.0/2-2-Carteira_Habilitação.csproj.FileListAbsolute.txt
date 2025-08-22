@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\bin\Debug\net8.0\2-2-Carteira_Habilitação.exe
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\bin\Debug\net8.0\2-2-Carteira_Habilitação.deps.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\bin\Debug\net8.0\2-2-Carteira_Habilitação.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\bin\Debug\net8.0\2-2-Carteira_Habilitação.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\bin\Debug\net8.0\2-2-Carteira_Habilitação.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\2-2-Carteira_Habilitação.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\2-2-Carteira_Habilitação.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\2-2-Carteira_Habilitação.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\2-2-Carteira_Habilitação.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\2-2-Carteira_Habilitação.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\refint\2-2-Carteira_Habilitação.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\2-2-Carteira_Habilitação.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\2-2-Carteira_Habilitação.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-2-Carteira_Habilitação\obj\Debug\net8.0\ref\2-2-Carteira_Habilitação.dll

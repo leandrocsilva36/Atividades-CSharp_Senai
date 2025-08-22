@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\bin\Debug\net8.0\3-Calculcadora_de_IMC.exe
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\bin\Debug\net8.0\3-Calculcadora_de_IMC.deps.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\bin\Debug\net8.0\3-Calculcadora_de_IMC.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\bin\Debug\net8.0\3-Calculcadora_de_IMC.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\bin\Debug\net8.0\3-Calculcadora_de_IMC.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\3-Calculcadora_de_IMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\3-Calculcadora_de_IMC.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\3-Calculcadora_de_IMC.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\3-Calculcadora_de_IMC.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\3-Calculcadora_de_IMC.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\refint\3-Calculcadora_de_IMC.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\3-Calculcadora_de_IMC.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\3-Calculcadora_de_IMC.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\3-Calculcadora_de_IMC\obj\Debug\net8.0\ref\3-Calculcadora_de_IMC.dll

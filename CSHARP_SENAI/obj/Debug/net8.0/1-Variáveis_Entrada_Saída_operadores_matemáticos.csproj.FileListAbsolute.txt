@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\bin\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.exe
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\bin\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.deps.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\bin\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\bin\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\bin\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\refint\1-Variáveis_Entrada_Saída_operadores_matemáticos.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\1-Variáveis_Entrada_Saída_operadores_matemáticos.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\CSHARP_SENAI\obj\Debug\net8.0\ref\1-Variáveis_Entrada_Saída_operadores_matemáticos.dll

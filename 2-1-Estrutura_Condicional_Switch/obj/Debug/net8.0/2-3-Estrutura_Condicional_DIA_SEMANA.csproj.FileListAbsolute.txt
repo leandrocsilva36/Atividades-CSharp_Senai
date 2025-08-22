@@ -1,0 +1,14 @@
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.exe
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.deps.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\bin\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\refint\2-3-Estrutura_Condicional_DIA_SEMANA.dll
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.pdb
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\2-3-Estrutura_Condicional_DIA_SEMANA.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\CSHARP_SENAI\2-1-Estrutura_Condicional_Switch\obj\Debug\net8.0\ref\2-3-Estrutura_Condicional_DIA_SEMANA.dll
