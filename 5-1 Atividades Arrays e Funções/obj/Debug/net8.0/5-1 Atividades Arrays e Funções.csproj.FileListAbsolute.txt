@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\5-1 Atividades Arrays e Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\5-1 Atividades Arrays e Funções.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\5-1 Atividades Arrays e Funções.AssemblyInfo.cs
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\5-1 Atividades Arrays e Funções.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\5-1 Atividades Arrays e Funções.sourcelink.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\bin\Debug\net8.0\5-1 Atividades Arrays e Funções.exe
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\bin\Debug\net8.0\5-1 Atividades Arrays e Funções.deps.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\bin\Debug\net8.0\5-1 Atividades Arrays e Funções.runtimeconfig.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\bin\Debug\net8.0\5-1 Atividades Arrays e Funções.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\bin\Debug\net8.0\5-1 Atividades Arrays e Funções.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\5-1 Atividades Arrays e Funções.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\refint\5-1 Atividades Arrays e Funções.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\5-1 Atividades Arrays e Funções.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\5-1 Atividades Arrays e Funções.genruntimeconfig.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-1 Atividades Arrays e Funções\obj\Debug\net8.0\ref\5-1 Atividades Arrays e Funções.dll

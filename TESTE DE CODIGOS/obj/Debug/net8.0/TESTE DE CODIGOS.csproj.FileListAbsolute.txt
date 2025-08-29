@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\TESTE DE CODIGOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\TESTE DE CODIGOS.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\TESTE DE CODIGOS.AssemblyInfo.cs
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\TESTE DE CODIGOS.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\TESTE DE CODIGOS.sourcelink.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\bin\Debug\net8.0\TESTE DE CODIGOS.exe
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\bin\Debug\net8.0\TESTE DE CODIGOS.deps.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\bin\Debug\net8.0\TESTE DE CODIGOS.runtimeconfig.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\bin\Debug\net8.0\TESTE DE CODIGOS.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\bin\Debug\net8.0\TESTE DE CODIGOS.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\TESTE DE CODIGOS.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\refint\TESTE DE CODIGOS.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\TESTE DE CODIGOS.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\TESTE DE CODIGOS.genruntimeconfig.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\TESTE DE CODIGOS\obj\Debug\net8.0\ref\TESTE DE CODIGOS.dll

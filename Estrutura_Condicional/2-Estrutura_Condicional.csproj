@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH.csproj" />
+  </ItemGroup>
+
 </Project>

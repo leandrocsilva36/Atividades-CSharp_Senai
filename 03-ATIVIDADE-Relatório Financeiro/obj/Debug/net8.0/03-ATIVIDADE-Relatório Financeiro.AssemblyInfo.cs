@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03-ATIVIDADE-Relatório Financeiro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41cad9b45cba651d4d271ae6eb3c24a63aa82995")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25fec4551cc3f29b28d4545b0e3d99e6efade867")]
 [assembly: System.Reflection.AssemblyProductAttribute("03-ATIVIDADE-Relatório Financeiro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03-ATIVIDADE-Relatório Financeiro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

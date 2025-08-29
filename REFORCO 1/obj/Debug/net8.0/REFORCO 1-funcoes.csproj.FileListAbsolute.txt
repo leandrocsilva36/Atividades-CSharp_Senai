@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\bin\Debug\net8.0\REFORCO 1-funcoes.exe
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\bin\Debug\net8.0\REFORCO 1-funcoes.deps.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\bin\Debug\net8.0\REFORCO 1-funcoes.runtimeconfig.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\bin\Debug\net8.0\REFORCO 1-funcoes.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\bin\Debug\net8.0\REFORCO 1-funcoes.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\REFORCO 1-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\REFORCO 1-funcoes.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\REFORCO 1-funcoes.AssemblyInfo.cs
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\REFORCO 1-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\REFORCO 1-funcoes.sourcelink.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\REFORCO 1-funcoes.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\refint\REFORCO 1-funcoes.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\REFORCO 1-funcoes.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\REFORCO 1-funcoes.genruntimeconfig.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\REFORCO 1\obj\Debug\net8.0\ref\REFORCO 1-funcoes.dll

@@ -1,0 +1,5 @@
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-Array\obj\Debug\net8.0\5-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-Array\obj\Debug\net8.0\5-Array.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-Array\obj\Debug\net8.0\5-Array.AssemblyInfo.cs
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-Array\obj\Debug\net8.0\5-Array.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\5-Array\obj\Debug\net8.0\5-Array.sourcelink.json

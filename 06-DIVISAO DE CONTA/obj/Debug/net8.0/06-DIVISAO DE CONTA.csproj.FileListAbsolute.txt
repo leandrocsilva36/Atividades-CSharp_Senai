@@ -1,0 +1,15 @@
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\06-DIVISAO DE CONTA.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\06-DIVISAO DE CONTA.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\06-DIVISAO DE CONTA.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\06-DIVISAO DE CONTA.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\06-DIVISAO DE CONTA.sourcelink.json
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\bin\Debug\net8.0\06-DIVISAO DE CONTA.exe
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\bin\Debug\net8.0\06-DIVISAO DE CONTA.deps.json
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\bin\Debug\net8.0\06-DIVISAO DE CONTA.runtimeconfig.json
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\bin\Debug\net8.0\06-DIVISAO DE CONTA.dll
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\bin\Debug\net8.0\06-DIVISAO DE CONTA.pdb
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\06-DIVISAO DE CONTA.dll
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\refint\06-DIVISAO DE CONTA.dll
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\06-DIVISAO DE CONTA.pdb
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\06-DIVISAO DE CONTA.genruntimeconfig.cache
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\06-DIVISAO DE CONTA\obj\Debug\net8.0\ref\06-DIVISAO DE CONTA.dll

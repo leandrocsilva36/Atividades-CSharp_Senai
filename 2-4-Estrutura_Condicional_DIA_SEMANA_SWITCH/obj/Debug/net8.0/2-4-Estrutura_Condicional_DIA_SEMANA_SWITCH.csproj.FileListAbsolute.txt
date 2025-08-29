@@ -1,0 +1,5 @@
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH\obj\Debug\net8.0\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH\obj\Debug\net8.0\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH.AssemblyInfoInputs.cache
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH\obj\Debug\net8.0\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH.AssemblyInfo.cs
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH\obj\Debug\net8.0\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH.csproj.CoreCompileInputs.cache
+D:\CURSO_CSHARP_SENAI\Atividades-CSharp_Senai\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH\obj\Debug\net8.0\2-4-Estrutura_Condicional_DIA_SEMANA_SWITCH.sourcelink.json

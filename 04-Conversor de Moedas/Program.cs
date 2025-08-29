@@ -2,12 +2,12 @@
 //    - Solicite ao usuário um valor em reais e a cotação do dólar.
 //    - Exiba o valor convertido para dólares.
 
-Console.WriteLine("QUANTO VOCE TEM EM DINHIRO R$  ? :");
+Console.Write("QUANTO VOCE TEM EM DINHIRO R$  ? :");
 
-double reais = Convert.ToInt32(Console.ReadLine());
+double reais = Convert.ToDouble(Console.ReadLine());
 double dolar = 5.42;
 
-Console.WriteLine ($"EM DOLAR VOCE TEM {reais-dolar}  ? :");
+Console.WriteLine($"EM DÓLAR VOCÊ TEM {(reais / dolar).ToString("F2")} $");
 
 
 
